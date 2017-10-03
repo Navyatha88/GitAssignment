@@ -1,3 +1,0 @@
-first file in branch1
-adding line 2 in branch2
-adding line 3 to test merge conflict in branch1
