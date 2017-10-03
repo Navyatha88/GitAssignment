@@ -1,3 +1,4 @@
 second file in branch1
 adding second line in branch2
 adding line 3 in branch2 for merge conflict
+adding line4 to check on conflict
