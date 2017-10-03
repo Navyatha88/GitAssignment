@@ -1,0 +1,4 @@
+first file in branch1
+adding line 2 in branch2
+
+deletion of 3rd line.
